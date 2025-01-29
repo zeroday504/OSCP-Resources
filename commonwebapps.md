@@ -4,7 +4,9 @@
 
 #### Videos
 Web Hacker Basics 04 (Local and Remote File Inclusion) (Netsec Explained): https://www.youtube.com/watch?v=htTEfokaKsM
+
 Advanced Local and Remote File Inclusion - PHP Wrappers (Netsec Explained): https://www.youtube.com/watch?v=cPSYuodIq9s
+
 TryHackMe! [Web Vulnerabilities] Local File Inclusion (John Hammond): https://www.youtube.com/watch?v=O7-qHZFxjgk
 
 
@@ -19,7 +21,9 @@ Inclusion
 
 #### Videos
 Web Hacker Basics 04 (Local and Remote File Inclusion) (Netsec Explained): https://www.youtube.com/watch?v=htTEfokaKsM
+
 Advanced Local and Remote File Inclusion - PHP Wrappers (Netsec Explained): https://www.youtube.com/watch?v=cPSYuodIq9s
+
 Remote File Inclusion Explained and Demonstrated! (Loi Liang Yang): https://www.youtube.com/watch?v=jG5FENEbGEg
 
 
