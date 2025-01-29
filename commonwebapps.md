@@ -1,3 +1,9 @@
+## Directory Traversals
+
+#### Videos
+Directory Traversal Attacks Made Easy (The Cyber Mentor): https://www.youtube.com/watch?v=99yJtmmtrJU
+
+
 ## File Inclusion Vulnerabilities
 
 ### Local File Inclusion
