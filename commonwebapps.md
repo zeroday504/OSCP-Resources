@@ -38,3 +38,8 @@ File Inclusion: https://academy.hackthebox.com/course/preview/file-inclusion
 
 #### THM Boxes
 Inclusion
+
+## File Upload Attacks
+
+#### Videos
+Web Application Hacking - File Upload Attacks Explained (The Cyber Mentor): https://www.youtube.com/watch?v=YAFVGQ-lBoM
